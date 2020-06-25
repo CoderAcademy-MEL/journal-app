@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.diary-entry {
+  resize: none;
+  height: 200px;
+  width: 50%;
+  font-size: 20px;
+}
